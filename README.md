@@ -8,6 +8,8 @@
 
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=dinhtuananh0105) [![Github](https://img.shields.io/github/followers/dinhtuananh0105?label=Follow&style=social)](https://github.com/dinhtuananh0105)
 
+[![Github](https://img.shields.io/github/followers/donezombie?label=Follow&style=social)](https://github.com/donezombie)
+
 ## About me
 
 ## Skills 
