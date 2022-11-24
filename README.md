@@ -1,16 +1,13 @@
-### Hi there 👋
+<div align="center">
+<img src="https://media.tenor.com/b1DVdUGztTIAAAAC/cartoon-dog.gif" width="50%" height=""50%" alt="cover" />
+</div>
 
-<!--
-**DinhTuanAnh0105/DinhTuanAnh0105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm developer from Vietnam 🇻🇳 <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
+                                             
+ Thank you for taking the time to visit my Github profile 🥰                                              
 
-Here are some ideas to get you started:
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=dinhtuananh0105) [![Github](https://img.shields.io/github/followers/dinhtuananh0105?label=Follow&style=social)](https://github.com/dinhtuananh0105)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+
+## Skills 
