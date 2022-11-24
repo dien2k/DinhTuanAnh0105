@@ -12,3 +12,9 @@
 ## About me
 
 ## Skills 
+                                                                                                                                  
+## Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
+                                                                                                                                     
+<a href = 'https://github.com/DinhTuanAnh0105'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+  <a href = 'https://www.facebook.com/anh.captain.5'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/facebook.svg"/></a>
+    <a href = 'https://www.instagram.com/anh.captain.5/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a>
