@@ -6,7 +6,8 @@
                                              
  Thank you for taking the time to visit my Github profile 🥰                                              
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=DinhTuanAnh0105) [![Github](https://img.shields.io/github/followers/DinhTuanAnh0105?label=Follow&style=social)](https://github.com/DinhTuanAnh0105)
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=DinhTuanAnh0105) 
+[![Github](https://img.shields.io/github/followers/DinhTuanAnh0105?label=Follow&style=social)](https://github.com/DinhTuanAnh0105)
 
 ## About me
 
