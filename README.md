@@ -28,7 +28,7 @@
   <a href = 'https://www.facebook.com/anh.captain.5'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/facebook.svg"/></a>
     <a href = 'https://www.instagram.com/anh.captain.5/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a>
     
-    [![Aditya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=donezombie&theme=tokyonight)](https://git.io/praveenscience)
+ [![Aditya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DinhTuanAnh0105&theme=tokyonight)](https://git.io/praveenscience)
 
 | ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=DinhTuanAnh0105&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DinhTuanAnh0105&theme=tokyonight) |
 | --- | --- |
